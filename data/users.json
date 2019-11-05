@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5d8c65980b8dfe10409288cc"},"sex":"3","username":"zaijian","password":"bd8bdccf3f600785a2d16ffdfcbe0262c9a03fc5ebb77898929ecf3a850d0ee0","userreg":{"$date":"2019-09-26T07:15:36.808Z"},"__v":0}
+{"_id":{"$oid":"5d8caadac9ba41184461af63"},"sex":"3","username":"asd","password":"b8988e82ac5dd09892234264929cccbfe615679f3e7d449bb0404f8c2c7907e0","userreg":{"$date":"2019-09-26T12:11:06.641Z"},"__v":0}
+{"_id":{"$oid":"5d8d70e2ffa0101b48af371b"},"sex":"3","username":"15031147196","password":"64abc18cbb5922c375aa1eabd921cffcb77ba829eef84c5f0f505afb3ecc4af5","userreg":{"$date":"2019-09-27T02:16:02.291Z"},"__v":0}
